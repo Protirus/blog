@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Protirus are Symantec's Leading Global Consulting Partner
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Throughout these changing times, Protirus continues to provide seamless support to global Symantec customers. We do this as we've always done - through service design, programme delivery and integration with existing portfolios, along with ongoing, managed support services.
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[info@protirus.com](mailto:info@protirus.com)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manchester MBA reasearch into MSSP
+title: Manchester MBA research into MSSP
 author: Jonathan Mathews
 category: general
 tags: [general]
